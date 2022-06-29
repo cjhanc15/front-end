@@ -1,0 +1,69 @@
+.page {
+  background-color: #090909;
+}
+
+.signature {
+  width: 350px;
+}
+
+.signature-container {
+  display: flex;
+  justify-content: center;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  border-radius: 50rem;
+  height: 50px;
+  width: 200px;
+  text-align: center;
+}
+
+.results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.delete {
+  border-radius: 2rem;
+}
+
+.watched {
+  border-radius: 2rem;
+
+}
+
+.watchlist {
+  border-radius: 2rem;
+
+}
+.inputs {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 5%;
+}
+
+.cover {
+  height: 500px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.header-3 {
+  padding-top: 2%;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
